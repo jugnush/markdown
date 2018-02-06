@@ -1,0 +1,2 @@
+'This application implements ReactJS single page application.' +  
+              'Taking user inputs and transform into box for each charactor in real time. also when click on box the charactor delete on both side'
